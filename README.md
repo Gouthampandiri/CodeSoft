@@ -10,6 +10,7 @@ Task Details :
 
 IDE : VScode
 
+https://www.linkedin.com/posts/pandiri-goutham-ab208624a_codesoft-internship-javaprogramming-activity-7196504572582916099-vVsz?utm_source=share&utm_medium=member_android
 
 
 ## Task 2 (Student Grade Calculator)
