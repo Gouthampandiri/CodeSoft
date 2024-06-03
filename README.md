@@ -37,7 +37,7 @@ Currency Selection: Allow the user to choose the base currency and the targetcur
 
 IDE : VScode
 
-
+https://www.linkedin.com/posts/pandiri-goutham-ab208624a_codesoft-internship-java-activity-7203361029655834627-P2bb?utm_source=share&utm_medium=member_desktop
 
 ## Task 5( Student Management System)
 
@@ -47,3 +47,4 @@ data is in the correct format
 
 IDE : VScode
 
+https://www.linkedin.com/posts/pandiri-goutham-ab208624a_codesoft-internship-projects-in-java-programming-activity-7203365955303788545-1CEQ?utm_source=share&utm_medium=member_desktop
