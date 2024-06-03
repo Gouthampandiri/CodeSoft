@@ -20,7 +20,7 @@ Input: Take marks obtained (out of 100) in each subject. Calculate Total Marks: 
 
 IDE : VScode
 
-
+https://www.linkedin.com/posts/pandiri-goutham-ab208624a_codesoft-internship-java-activity-7197199663928680448-JCMk?utm_source=share&utm_medium=member_desktop
 
 ## Task 3 (ATM Interface)
 
@@ -29,7 +29,7 @@ Task Details :
 
 IDE : VScode
 
-
+https://www.linkedin.com/posts/pandiri-goutham-ab208624a_codesoft-internship-java-activity-7198326903064154113-2GHH?utm_source=share&utm_medium=member_desktop
 
 ## Task 4 (Currency Converter)
 
